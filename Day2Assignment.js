@@ -22,3 +22,8 @@ console.log("The type is: " + typeof knowsAutomation);
 let usesPlaywright
 console.log("The usesPlaywright is: " + usesPlaywright);
 console.log("The type is: " + typeof usesPlaywright);
+
+
+
+
+//git change
